@@ -1,3 +1,3 @@
-+neuer Inhalt
+neuer Inhalt
 =
 
