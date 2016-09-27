@@ -1,1 +1,1 @@
-= neuer Inhalt =
+=neuer Inhalt=
