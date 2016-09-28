@@ -1,5 +1,12 @@
+# README
 :cat:
 
-.md heißt mark down
-lol  ist ein Alias
-TEST
+## Notizen
+
+* .md heißt mark down
+* lol  ist ein Alias
+
+### Unterüberschrift
+**TEST**
+
+:smiley:
